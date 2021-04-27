@@ -1,5 +1,6 @@
-# sentiment-analysis
-## Sentiment using NLP and Flask
+# sentiment-analysis by Robin Singh Patiyal
+
+## Sentiment analysis using NLP and Flask
 
 ![screencapture-127-0-0-1-5000-1619507704164](https://user-images.githubusercontent.com/41826216/116201510-3221c780-a757-11eb-8ecf-64eef9a8b357.png)
 
